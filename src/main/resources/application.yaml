@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: algorithm-sm2
